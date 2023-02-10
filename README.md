@@ -17,5 +17,5 @@
     * If the player fails to the guess the song/artist correct after the 2 goes the game ends.
       * Each guess the first letter of each word of the song/artist is revealed.
       
-![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualㅤStudioㅤCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/python-FFD63C?style=for-the-badge&logo=python&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VisualㅤStudioㅤCode-1B8CD4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
